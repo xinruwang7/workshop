@@ -1,0 +1,393 @@
+    1  /Users/xinruwang/Downloads/LigPlus/lib/exe_mac/ligplot ; exit;
+    2  /Users/xinruwang/Downloads/LigPlus/lib/exe_mac/ligplot ; exit;
+    3  /Users/xinruwang/Downloads/LigPlus/lib/exe_linux/ligplot ; exit;
+    4  inkskape
+    5  ls
+    6  cd applications
+    7  ls
+    8  pwd
+    9  ls
+   10  ls
+   11  cd ..
+   12  ls
+   13  cd xinruwang
+   14  ls
+   15  cd ..
+   16  cd shared
+   17  ls
+   18  cd ..
+   19  cd ..
+   20  ls
+   21  cd system
+   22  ls
+   23  cd .
+   24  ls
+   25  cd ..
+   26  ls
+   27  cd installer.failurerequests 
+   28  ls
+   29  ls
+   30   sudo /Library/Application\ Support/LogMeIn/uninstaller.sh
+   31  /Applications/XDS-OSX_64/xds ; exit;
+   32  cd$Home
+   33  pwd
+   34  ls
+   35  cd Applications
+   36  ls
+   37  pwd
+   38  cd ..
+   39  cd ..
+   40  ls
+   41  cd ..
+   42  cd ..
+   43  ls
+   44  cd home
+   45  ls
+   46  pwd
+   47  bash
+   48  q
+   49  cd $HOme
+   50  pwd
+   51  echo 'export Path=$PATH;/bin' ..-/.profile
+   52  /Users/xinruwang/Downloads/ATSASinstall\ 2.command ; exit;
+   53  ls
+   54  cd ..
+   55  pwd
+   56  ls
+   57  cd ..
+   58  pwd
+   59  ls
+   60  cd usr
+   61  ls
+   62  cd ..
+   63  pwd
+   64  cd users
+   65  ls
+   66  cd xinruwang/
+   67  ls
+   68  cd desktop
+   69  ls
+   70  ls
+   71  /Applications/ccp4-7.0/lib/py2/cctbx/bin/python ; exit;
+   72  csev$ python
+   73  ~ csev$ python
+   74  ~ csev$ python --version
+   75  cd ..
+   76  cd ..
+   77  cd ..
+   78  cd .
+   79  ls
+   80  pwd
+   81  pyhon --version
+   82  python --version
+   83  python3 --version
+   84  pyhon hello.py
+   85  python hello.py
+   86  python hello.py
+   87  ls
+   88  cd home
+   89  ls
+   90  cd Users
+   91  cd ..
+   92  ls
+   93  cd Users/
+   94  ls
+   95  cd xinruwang/
+   96  ls
+   97  cd Desktop/
+   98  ls
+   99  python hello.py
+  100  python hello.py
+  101  python3
+  102  python hello.py
+  103  cd Desktop/
+  104  cd Python
+  105  ls
+  106  cd exercise2/
+  107  python3
+  108  cd
+  109  pwd
+  110  cd /desktop
+  111  ls
+  112  cd Desktop/
+  113  ls
+  114  cd Statistical\ Mechanics/
+  115  ls
+  116  cd programs_tutorial_1/
+  117  ls
+  118  python3 pebble_basic.py
+  119  python3 pebble_basic.py
+  120  python3 pebble_basic.py
+  121  python2 pebble_basic.py
+  122  python pebble_basic.py
+  123  python
+  124  ls
+  125  cd Desktop/
+  126  cd Statistical\ Mechanics/
+  127  ls
+  128  cd *_1
+  129  ls
+  130  python *histogram.py
+  131  ls
+  132  cmake --version
+  133  pyhon3 x=2
+  134  Python3 x=2
+  135  Python3
+  136  Python
+  137  nano
+  138  git
+  139  pwd
+  140  cd /usr/local/bin
+  141  ls
+  142  git
+  143  git
+  144  git -version
+  145  git --version
+  146  nano
+  147  pwd
+  148  ls
+  149  pwd
+  150  cd /bash
+  151  pwd
+  152  cd ~/Desktop/workshop/unix_intro
+  153  date
+  154  date -u
+  155  clear
+  156  head example.txt
+  157  head -n 5 exmple.txt
+  158  head -n 5 example.txt
+  159  head --help
+  160  man head
+  161  clear
+  162  pwd
+  163  cd ~
+  164  pwd
+  165  cd ~/Desktop/workshop/unix_intro
+  166  pwd
+  167  ls
+  168  cd ~
+  169  cd /
+  170  pwd
+  171  cd ~/desktop
+  172  ls
+  173  cd workshop
+  174  ls
+  175  cd *intro
+  176  ls
+  177  cd ~/Desktop/workshop/unix_intro
+  178  pwd
+  179  clear
+  180  head ~/desktop/workshop/unix_intro/example.txt
+  181  head note.txt
+  182  ls
+  183  cd experiment
+  184  ls
+  185  cd ..
+  186  ls
+  187  head experiment/note.txt
+  188  head experiment/notes.txt
+  189  head experiment/notes.txt 
+  190  head ex
+  191  head exa
+  192  clear
+  193  cd ~/
+  194  pwd
+  195  ls
+  196  cd desktop
+  197  ls
+  198  cd workshop
+  199  cd *intro
+  200  ls
+  201  pwd
+  202  cleat
+  203  cler
+  204  clear
+  205  cd ../
+  206  pwd
+  207  cd *intro
+  208  pwd
+  209  ls
+  210  pwd
+  211  cd ..
+  212  ls
+  213  pwd
+  214  cd ./
+  215  pwd
+  216  cd ..
+  217  pwd
+  218  cd ./
+  219  pwd
+  220  cd workshop/*intro
+  221  pwd
+  222  less example.txt 
+  223  wc example.txt 
+  224  wc -l
+  225  cd ~/desktop/workshop/*intro
+  226  ls
+  227  wc -l example.txt 
+  228  wc --help
+  229  clear
+  230  cp example.txt example_copy.txt 
+  231  ls
+  232  ls data
+  233  cp example.txt data/example_2.txt
+  234  ls data
+  235  pwd
+  236  mv *copy.txt experiment/
+  237  ls
+  238  ls experiment/
+  239  rm experiment/*copy.txt
+  240  ls experiment/
+  241  clear
+  242  nano sample_names.txt
+  243  ls
+  244  mkdir subset
+  245  ls
+  246  rm subset
+  247  rmdir subset
+  248  ls
+  249  rmdir experiment
+  250  rm -rf experiment
+  251  ls
+  252  cd -help
+  253  cd --help
+  254  cp --help
+  255  cd ~/desktop/workshop_2/*intro
+  256  ls
+  257  cp experiment/ experiment_copy
+  258  cp /experiment /experiment_copy
+  259  cp experiment experiment_copy
+  260  cp --help
+  261  ls
+  262  cp experiment experiment_copy
+  263  clear
+  264  pwd
+  265  nano sample_names.txt
+  266  ls
+  267  mv sample_names.txt sample_names_2.txt 
+  268  ls
+  269  wc -l example.txt
+  270  ls
+  271  ls | wc -l
+  272  ls
+  273  ls data/all_samples
+  274  ls | wc -l data/all_samples
+  275  ls | wc -l 
+  276  ls
+  277  ls data/all_samples
+  278  ls data/all_samples/ | wc -l
+  279  ls > dirctory_contents.txt
+  280  ls
+  281  ls experiment/ > dirctory_contents.txt 
+  282  head directory_contents.txt
+  283  ls
+  284  head dirctory_contents.txt 
+  285  mv dirctory_contents.txt directory_contents.txt
+  286  ls >> directory_contents.txt 
+  287  ls
+  288  head directory_contents.txt 
+  289  clear
+  290  cd /data/all_samples
+  291  ls
+  292  cd data/
+  293  ls
+  294  cd all_samples/
+  295  ls
+  296  ls *.txt
+  297  ls *.txt | wc -l
+  298  ls *.txt | wc -l | > lines.txt
+  299  ls
+  300  less lines.txt 
+  301  rm lines.txt
+  302  ls *.fq
+  303  ls *.fq | wc -l
+  304  ls *.txt | wc -l
+  305  ls *.tsv | wc -l
+  306  mkdir fastq_file
+  307  ls fastq_file/
+  308  ls *.fq
+  309  mv *.fq fastq_file/
+  310  ls
+  311  ls fastq_file/
+  312  ls fastq_file/ | wc -l
+  313  ls wc -l
+  314  ls | wc -l
+  315  history
+  316  history | tail
+  317  history | head
+  318  history | head -40
+  319  history | tail -40
+  320  ls
+  321  pwd
+  322  cd fastq_file/
+  323  ls
+  324  ls sample_1*.fq
+  325  ls sample_1?.fq
+  326  ls
+  327  cd ..
+  328  ls
+  329  cd ..
+  330  ls
+  331  cd ..
+  332  ls
+  333  cd six_commands/
+  334  ls
+  335  cd ~/desktop/workshop/*intro
+  336  ls
+  337  cp data data_copy
+  338  cp data /data_copy
+  339  ls
+  340  clear
+  341  cd six_commands/
+  342  ls
+  343  head gene_annotations.text 
+  344  head gene_annotations.tsv
+  345  head gene_annotations.tsv -n l
+  346  head -n 1 gene_annotations.tsv
+  347  wc -l gene_annotations.tsv
+  348  cut --help
+  349  cut -f 1 gene_annotations.tsv 
+  350  cut -f 1 gene_annotations.tsv | head
+  351  cut -f 1,4 gene_annotations.tsv | head
+  352  cut -f 1-4 gene_annotations.tsv | head
+  353  head colors.txt
+  354  greb blue colors.txt
+  355  grep blue colors.txt
+  356  grep K09765 gene_annotations.tsv
+  357  grep K18979 gene_annotations.tsv
+  358  grep -c K18979 gene_annotations.tsv
+  359  paste colors.txt colores.txt 
+  360  ls
+  361  clear
+  362  cd ~/destktop/workshop/*intro
+  363  cd ~/desktop/workshop/*intro
+  364  my_var=ANGUS
+  365  my_var
+  366  my_var=TUCSON
+  367  $
+  368  echo this is a
+  369  echo my_var
+  370  echo $my_var
+  371  mkdir for_loops 
+  372  cd /for_loops
+  373  cd for_loops/
+  374  pwd
+  375  clear
+  376  for item in earth mars venus; do  echo $item;  done
+  377  for item in earth mars venus; do  echo $item; echo $item >> plantes.txt; done
+  378  ls
+  379  mv plantes.txt planets.txt
+  380  less planets.txt 
+  381  cat planets.txt 
+  382  for item in $(cat planets.txt); do echo $item; done
+  383  for x in $(cat planets.txt); do echo $x; done
+  384  pwd
+  385  cd ..
+  386  ls
+  387  ls > directory_contents.txt
+  388  ls
+  389  less directory_contents.txt 
+  390  for object in $(head directory_contents.txt); echo object
+  391  for object in $(head directory_contents.txt); echo $object
+  392  for object in $(head directory_contents.txt); do echo $object; done
+  393  history > history_unix.txt

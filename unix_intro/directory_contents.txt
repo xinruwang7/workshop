@@ -1,0 +1,6 @@
+data
+directory_contents.txt
+example.txt
+for_loops
+sample_names.txt
+six_commands
